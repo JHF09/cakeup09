@@ -1,0 +1,61 @@
+.image {
+  float: left;
+  margin: 10px;
+  border-radius: 10px;
+}
+.frontsidekick{
+  font-size: 50px;
+}
+p {
+  font-size: 20px;
+}
+.ending {
+  font-size: 25px;
+}
+img {
+  width: 600px;
+  margin: 10px;
+}
+.button {
+  background-color: greenyellow;
+  border-radius: 10px;
+  width: 300px;
+  height: 50px;
+  font-size: 40px;
+  text-decoration-color: aliceblue;
+}
+h1 {
+  font-size: 75px;
+}
+h2 {
+  font-size: 50px;
+}
+.next_button {
+  background-color: aqua;
+  float: right;
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  font-size: 40px;
+}
+.previous_button {
+  
+  background-color: aqua;
+  float: left;
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  font-size: 40px;
+}
+.pokemon {
+  text-decoration: aqua;
+  font-size: 50px;
+  color: slategray;
+}
+.entire_story {
+  height: 150px;
+  width: 500px;
+  background-color: thistle;
+  border-radius: 10px;
+  font-size: 30px;
+}
